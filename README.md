@@ -1,6 +1,45 @@
-# memorable-dice-roller
+# Dice Roller App
 
-A MEMORABLE dice roller for TTRPGs
+A simple and intuitive dice rolling application built with React Native and Expo.
+
+## Features
+
+- Roll multiple types of dice (d4, d6, d8, d10, d12, d20, d100)
+- Roll multiple dice at once
+- Add modifiers to your rolls
+- Custom dice with any number of sides
+- View roll history with individual results
+- Clean, modern interface
+
+## How to Use
+
+1. Set the number of dice you want to roll
+2. Add a modifier if needed (positive or negative)
+3. Select a dice type or use the custom dice option
+4. View your results, including:
+   - Dice notation (e.g., "2d6+1")
+   - Individual roll results
+   - Total sum with modifier
+
+## Development
+
+This app is built using:
+
+- React Native
+- Expo
+- React Native Paper
+- TypeScript
+
+To run locally:
+
+```bash
+npm install
+npx expo start
+```
+
+## License
+
+MIT
 
 # Welcome to your Expo app 👋
 

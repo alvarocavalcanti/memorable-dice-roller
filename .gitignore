@@ -40,3 +40,10 @@ app-example
 # IDEs
 .idea/
 .vscode/
+
+# Android
+.gradle/
+
+# Builds
+android/
+ios/
